@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry>
+        <Terms>
+            <Term>My Term</Term>
+        </Terms>
+        <Definition>My definition</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry>
+        <Terms>
+            <Term>Glossary</Term>
+        </Terms>
+        <Definition>definition</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

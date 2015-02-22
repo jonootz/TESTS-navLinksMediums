@@ -1,0 +1,482 @@
+/*<meta />*/
+
+body
+{
+	font-family: Arial;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	color: #808080;
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	cursor: hand;
+	text-decoration: none;
+	color: #808080;
+	font-weight: bold;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #808080;
+	font-weight: bold;
+}
+
+MadCap|dropDownHotspot:hover
+{
+	color: #32cd32;
+}
+
+MadCap|expandingHead:hover
+{
+	color: #32cd32;
+}
+
+MadCap|toggler
+{
+	color: #808080;
+}
+
+MadCap|toggler:hover
+{
+	color: #32cd32;
+	font-weight: bold;
+}
+
+MadCap|glossaryTerm
+{
+	color: #808080;
+}
+
+MadCap|glossaryTerm:hover
+{
+	color: #32cd32;
+}
+
+MadCap|relatedTopics
+{
+	color: #808080;
+}
+
+MadCap|relatedTopics:hover
+{
+	color: #32cd32;
+}
+
+MadCap|keywordLink
+{
+	color: #808080;
+}
+
+MadCap|keywordLink:hover
+{
+	color: #32cd32;
+}
+
+MadCap|conceptLink:hover
+{
+	color: #32cd32;
+}
+
+MadCap|conceptLink
+{
+	color: #808080;
+}
+
+@media non-print
+{
+	MadCap|dropDownHotspot
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|expandingHead
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|glossaryTerm
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|toggler
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|conceptLink
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|keywordLink
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|relatedTopics
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|relatedTopics:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|conceptLink:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|keywordLink:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|dropDownHotspot:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|expandingHead:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|glossaryTerm:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|toggler:hover
+	{
+		color: #ff8c00;
+	}
+
+	h1.Test
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|xref:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|xref
+	{
+		color: #1e90ff;
+	}
+
+	a
+	{
+		color: #1e90ff;
+	}
+
+	a.Popup:hover
+	{
+		color: #ff8c00;
+	}
+
+	a:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|popup
+	{
+		color: #1e90ff;
+	}
+
+	MadCap|popup:hover
+	{
+		color: #ff8c00;
+	}
+
+	MadCap|popupHead
+	{
+		color: #1e90ff;
+	}
+
+	a:link
+	{
+		color: #1e90ff;
+	}
+
+	p
+	{
+		color: #1e90ff;
+	}
+
+	a.Popup
+	{
+		color: #1e90ff;
+	}
+}
+
+@media print
+{
+	MadCap|dropDownHotspot
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|expandingHead
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|glossaryTerm
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|toggler
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|dropDownHotspot:hover
+	{
+		color: #ffd700;
+	}
+
+	MadCap|expandingHead:hover
+	{
+		color: #ffd700;
+	}
+
+	MadCap|glossaryTerm:hover
+	{
+		color: #ffd700;
+	}
+
+	MadCap|toggler:hover
+	{
+		color: #ffd700;
+	}
+
+	MadCap|conceptLink
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|keywordLink
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|relatedTopics
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|relatedTopics:hover
+	{
+		color: #ffd700;
+	}
+
+	MadCap|keywordLink:hover
+	{
+		color: #ffd700;
+	}
+
+	MadCap|conceptLink:hover
+	{
+		color: #ffd700;
+	}
+
+	h1.Test
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|xref
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|xref:hover
+	{
+		color: #ffd700;
+	}
+
+	a
+	{
+		color: #ba55d3;
+	}
+
+	a.Popup:hover
+	{
+		color: #ffd700;
+	}
+
+	a:hover
+	{
+		color: #ffd700;
+	}
+
+	a.Popup
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|popup:hover
+	{
+		color: #ffd700;
+	}
+
+	MadCap|popup
+	{
+		color: #ba55d3;
+	}
+
+	MadCap|popupHead
+	{
+		color: #ba55d3;
+	}
+
+	a:link
+	{
+		color: #ba55d3;
+	}
+
+	p
+	{
+		color: #ba55d3;
+	}
+}
+
+p.test
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+h1.Test
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+	color: #808080;
+}
+
+MadCap|xref
+{
+	color: #808080;
+}
+
+MadCap|xref:hover
+{
+	color: #32cd32;
+}
+
+a.Popup:hover
+{
+	color: #32cd32;
+}
+
+a:link
+{
+	color: #808080;
+}
+
+a:hover
+{
+	color: #32cd32;
+}
+
+a
+{
+	color: #32cd32;
+}
+
+MadCap|popup:hover
+{
+	color: #32cd32;
+}
+
+MadCap|popup
+{
+	color: #808080;
+}
+
+MadCap|popupHead
+{
+	color: #808080;
+}
+
+div.legend
+{
+	background-color: #deb887;
+}
+
